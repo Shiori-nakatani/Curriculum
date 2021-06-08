@@ -1,0 +1,20 @@
+･IT:"Information Technology"の略。インターネットの情報技術（コンピューター、ソフトウェア、アプリケーション）
+･ICT:"Information and Communication Technology"の略。通信技術を使って人とインターネット、人と人がつながる技術のこと（メール、チャット、SNSの活用、通信販売の利用、ネット検索）
+･IoT:"Internet of Things"の略。人を使わず異動的にインターネットと物がつながる技術のこと（自動運転、スマート家電）
+
+･OS:"Operating System"の略。操作するためのシステム。端末全体を管理、制御すること。ユーザーがパソコンを操作するためのソフト
+･Windows:９０％のシェアを占めているOS
+･macOS(Mac OS X):Apple社が開発したOS
+･UNIX:ライセンス契約があり、企業が開発している
+･Linux:無償で配布され、自由にカスタマイズができるOS(専門的な知識が必要）
+
+・マークアップ/フロントエンド
+･HTML
+･CSS
+･JavaScript
+→jQuery
+･Java SE
+
+・サーバーサイド
+･.NET(C#,VB)
+･Java
