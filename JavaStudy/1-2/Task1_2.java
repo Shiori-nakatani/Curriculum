@@ -27,7 +27,7 @@ public class Task1_2{
         int[] intArray = { 10, 20, 30, 40, 50 };
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
-        // [配列１と配列２の合計数を打ち出している]
+        // [配列２と配列５の合計数を打ち出している]
         System.out.println(intArray[1] + intArray[4]);
 
     }
